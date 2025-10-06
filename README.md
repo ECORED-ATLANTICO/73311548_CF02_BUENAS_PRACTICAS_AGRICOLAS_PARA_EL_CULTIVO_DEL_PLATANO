@@ -2,8 +2,8 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-atlantico.github.io/ECORED-BASE-REPO/](https://ecored-atlantico.github.io/ECORED-BASE-REPO/)
-
+[[https://ecored-atlantico.github.io/ECORED-BASE-REPO/](https://ecored-atlantico.github.io/ECORED-BASE-REPO/)
+](https://ecored-atlantico.github.io/73311548_CF02_BUENAS_PRACTICAS_AGRICOLAS_PARA_EL_CULTIVO_DEL_PLATANO/#/)
 #
 
 ## **Configuración del proyecto**
