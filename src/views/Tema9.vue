@@ -11,7 +11,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-12.mb-2
         div.tarjeta-horz.mb-3.curvas
-          img(src='@/assets/curso/temas/tema6/img01.png', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema6/img01.png', alt='Imagen Decorativa')
           div.texto-tarjeta.bg-blue-gradient
             .px-4
               p.mb-0 La inocuidad en el plátano y la protección sanitaria constituyen un eje esencial dentro de las buenas prácticas agrícolas (BPA), ya que garantizan que el fruto llegue al consumidor libre de contaminantes físicos, químicos y biológicos que puedan afectar su salud. Este tema integra medidas técnicas, higiénicas y fitosanitarias orientadas a reducir riesgos durante el ciclo productivo, desde la siembra hasta la poscosecha. La inocuidad no solo responde a las exigencias normativas nacionales e internacionales, sino que también fortalece la competitividad del plátano colombiano en mercados globales, donde los estándares de calidad y seguridad alimentaria son cada vez más rigurosos.
@@ -31,12 +31,12 @@
                     li Incluye la prevención de contaminaciones cruzadas y la aplicación de medidas de higiene en todas las fases del proceso agrícola.
                 .col-md-4.mb-4.mb-md-0.order-1.order-lg-2
                   figure
-                    img(src='@/assets/curso/temas/tema9/img02.svg', alt='Texto que describa la imagen').w-auto.mx-auto
+                    img(src='@/assets/curso/temas/tema9/img02.svg', alt='Imagen Decorativa').w-auto.mx-auto
 
               .row.align-items-center.justify-content-center
                 .col-md-4.mb-4.mb-md-0
                   figure
-                    img(src='@/assets/curso/temas/tema9/img03.svg', alt='Texto que describa la imagen').w-auto.mx-auto
+                    img(src='@/assets/curso/temas/tema9/img03.svg', alt='Imagen Decorativa').w-auto.mx-auto
                 .col-md-8.text-left
                   h5 Presupuesto base cero (PBC).
                   ul.bullets
@@ -60,12 +60,12 @@
                     li Prácticas de higiene del personal (lavado de manos, uso de ropa limpia y equipos de protección).
                 .col-md-4.mb-4.mb-md-0.order-1.order-lg-2
                   figure
-                    img(src='@/assets/curso/temas/tema9/img04.svg', alt='Texto que describa la imagen').w-auto.mx-auto
+                    img(src='@/assets/curso/temas/tema9/img04.svg', alt='Imagen Decorativa').w-auto.mx-auto
 
               .row.align-items-center.justify-content-center
                 .col-md-4.mb-4.mb-md-0
                   figure
-                    img(src='@/assets/curso/temas/tema9/img05.svg', alt='Texto que describa la imagen').w-auto.mx-auto
+                    img(src='@/assets/curso/temas/tema9/img05.svg', alt='Imagen Decorativa').w-auto.mx-auto
                 .col-md-8.mb-4.mb-md-0.text-left
                   h5 Medidas de protección sanitaria en poscosecha
                   ul.bullets
@@ -93,12 +93,12 @@
                       | incluyen criterios de inocuidad y sanidad que fortalecen la competitividad del sector.
                 .col-md-4.mb-4.mb-md-0.order-1.order-lg-2
                   figure
-                    img(src='@/assets/curso/temas/tema9/img06.svg', alt='Texto que describa la imagen').w-auto.mx-auto
+                    img(src='@/assets/curso/temas/tema9/img06.svg', alt='Imagen Decorativa').w-auto.mx-auto
               
               .row.align-items-center.justify-content-center
                 .col-md-4.mb-4.mb-md-0
                   figure
-                    img(src='@/assets/curso/temas/tema9/img07.svg', alt='Texto que describa la imagen').w-auto.mx-auto
+                    img(src='@/assets/curso/temas/tema9/img07.svg', alt='Imagen Decorativa').w-auto.mx-auto
                 .col-md-8.mb-4.mb-md-0.text-left
                   h5 Beneficios de garantizar inocuidad y sanidad
                   ul.bullets

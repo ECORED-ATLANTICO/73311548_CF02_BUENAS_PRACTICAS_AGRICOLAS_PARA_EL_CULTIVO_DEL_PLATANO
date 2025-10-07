@@ -11,7 +11,7 @@
           p La implementación de estas prácticas conlleva beneficios, aunque también implica retos en costos y capacitación. Además, se prioriza la seguridad y el bienestar del trabajador. Finalmente, el plan de manejo ambiental integra acciones de conservación de recursos naturales, disposición adecuada de residuos y cuidado de la biodiversidad, asegurando que la producción de plátano sea rentable, responsable y alineada con las exigencias del sector agrícola.
         .col-12.col-md-12.col-lg-4.mb-4.mb-lg-0.order-1.order-lg-2
           figure
-            img.mb-4.mb-lg-0(src='@/assets/curso/sintesis01.png', alt='imagen decorativa')
+            img.mb-4.mb-lg-0(src='@/assets/curso/sintesis01.png', alt='Imagen Decorativa')
 
     .row.justify-content-center
       .col-lg-10.mb-5.bgs.p-4.brad

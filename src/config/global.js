@@ -292,7 +292,7 @@ export default {
       autores: [
         {
           nombre: 'Andrés Felipe Herrera Roldan',
-          cargo: 'Diseñador web',
+          cargo: 'Diseñador <em>web</em>',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {

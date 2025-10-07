@@ -20,7 +20,7 @@
       .row.align-items-center.justify-content-star.mb-1.ps-2
         .div.mb-3(data-aos="fade-left")
           h3.subtitle.position-relative Identificación
-            img.image(src='@/assets/curso/temas/img01.svg', alt='Imagen decorativa')
+            img.image(src='@/assets/curso/temas/img01.svg', alt='Imagen Decorativa')
 
     p La identificación de los productos es un requisito indispensable en los mercados internacionales, ya que permite conocer información clave sobre su origen y procesamiento. A través de las etiquetas, se especifican detalles como la fecha de elaboración y empaque, el número de lote y otros datos relevantes.
     p.mb-5 Las etiquetas de frutas y hortalizas deben cumplir con estándares de calidad y contener la siguiente información:
@@ -31,7 +31,7 @@
         .row.justify-content-center.align-items-center.mb-5
           .col-12.col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
             figure
-              img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema7/img02.png', alt='imagen decorativa')
+              img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema7/img02.png', alt='Imagen Decorativa')
 
           .col-12.col-lg-8.mb-4.mb-lg-0
             .custom-slider
@@ -39,7 +39,7 @@
                 .tarjeta.bg-cards-leaves.p-4
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-8
-                      img(src='@/assets/curso/temas/tema7/img09.svg' alt='AvatarTop').w-auto.mx-auto
+                      img(src='@/assets/curso/temas/tema7/img09.svg' alt='Imagen Decorativa').w-auto.mx-auto
                   ul.bullets
                     li País de origen.
                     li Naturaleza del producto: nombre de la especie empacada y, en algunos mercados, la variedad específica.
@@ -48,7 +48,7 @@
                 .tarjeta.bg-cards-leaves.p-4
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-8
-                      img(src='@/assets/curso/temas/tema7/img10.svg' alt='AvatarTop').w-auto.mx-auto
+                      img(src='@/assets/curso/temas/tema7/img10.svg' alt='Imagen Decorativa').w-auto.mx-auto
                   ul.bullets
                     li Especificaciones comerciales: tamaño, clasificación y uso de conservantes.
                     li Identificación del productor: nombre, dirección y código de la marca registrada.
@@ -56,7 +56,7 @@
                 .tarjeta.bg-cards-leaves.p-4
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-8
-                      img(src='@/assets/curso/temas/tema7/img11.svg' alt='AvatarTop').w-auto.mx-auto
+                      img(src='@/assets/curso/temas/tema7/img11.svg' alt='Imagen Decorativa').w-auto.mx-auto
                   ul.bullets
                     li Visibilidad: toda la información debe estar impresa en un mismo lado del empaque, asegurando su fácil lectura.
 
@@ -68,8 +68,8 @@
             span Fijación de factores y proyecciones 
         figure.mb-4
           figure.mb-3
-            img(src='@/assets/curso/temas/tema7/img03.png', alt='').mx-auto.d-none.d-md-block
-            img(src='@/assets/curso/temas/tema7/img03m.png', alt='').mx-auto.d-block.d-md-none
+            img(src='@/assets/curso/temas/tema7/img03.png', alt='Se muestra cual es la información que se debe relacionar para la generación de etiquetas en frutas y verduras').mx-auto.d-none.d-md-block
+            img(src='@/assets/curso/temas/tema7/img03m.png', alt='Se muestra cual es la información que se debe relacionar para la generación de etiquetas en frutas y verduras').mx-auto.d-block.d-md-none
 
           figcaption 
             b Fuente: 
@@ -80,7 +80,7 @@
       .row.align-items-center.justify-content-star.mb-1.ps-2
         .div.mb-3(data-aos="fade-left")
           h3.subtitle.position-relative Trazabilidad o rastreabilidad
-            img.image(src='@/assets/curso/temas/img01.svg', alt='Imagen decorativa')
+            img.image(src='@/assets/curso/temas/img01.svg', alt='Imagen Decorativa')
 
 
     //- Cajon
@@ -94,7 +94,7 @@
       .row.align-items-center.justify-content-star.mb-1.ps-2
         .div.mb-3(data-aos="fade-left")
           h3.subtitle.position-relative Proceso de trazabilidad
-            img.image(src='@/assets/curso/temas/img01.svg', alt='Imagen decorativa')
+            img.image(src='@/assets/curso/temas/img01.svg', alt='Imagen Decorativa')
 
 
     //- TabsC
@@ -108,7 +108,7 @@
               li Se registran datos de labores culturales, aplicación de agroquímicos, fertilización y riego.
           .col-12.col-md-8.col-lg-4
             figure
-              img.my-3(src='@/assets/curso/temas/tema7/img04.png', alt='Imagen decorativa')
+              img.my-3(src='@/assets/curso/temas/tema7/img04.png', alt='Imagen Decorativa')
 
       .p-4.py-5.bg-color-primario-p5(titulo="Registro en cosecha y poscosecha")
         .row.align-items-center.justify-content-center
@@ -119,7 +119,7 @@
               li En la planta de empaque se registran fecha de cosecha, clasificación, y resultados de control de calidad.
           .col-12.col-md-8.col-lg-4
             figure
-              img.my-3(src='@/assets/curso/temas/tema7/img05.png', alt='Imagen decorativa')
+              img.my-3(src='@/assets/curso/temas/tema7/img05.png', alt='Imagen Decorativa')
 
       .p-4.py-5.bg-color-primario-p5(titulo="Empaque y transporte")
         .row.align-items-center.justify-content-center
@@ -130,7 +130,7 @@
               li Se documenta la ruta de distribución y destino del producto.
           .col-12.col-md-8.col-lg-4
             figure
-              img.my-3(src='@/assets/curso/temas/tema7/img06.png', alt='Imagen decorativa')
+              img.my-3(src='@/assets/curso/temas/tema7/img06.png', alt='Imagen Decorativa')
 
       .p-4.py-5.bg-color-primario-p5(titulo="Seguimiento en comercialización")
         .row.align-items-center.justify-content-center
@@ -141,14 +141,14 @@
               li Ante cualquier reclamo, es posible rastrear el lote hasta su origen en finca.
           .col-12.col-md-8.col-lg-4
             figure
-              img.my-3(src='@/assets/curso/temas/tema7/img07.png', alt='Imagen decorativa')
+              img.my-3(src='@/assets/curso/temas/tema7/img07.png', alt='Imagen Decorativa')
 
     //- Subtitulo
     .row.justify-content-center.align-items-center.mb-1
       .row.align-items-center.justify-content-star.mb-1.ps-2
         .div.mb-3(data-aos="fade-left")
           h3.subtitle.position-relative Procedimiento de retiro
-            img.image(src='@/assets/curso/temas/img01.svg', alt='Imagen decorativa')
+            img.image(src='@/assets/curso/temas/img01.svg', alt='Imagen Decorativa')
 
     p.mb-5 El procedimiento de retiro constituye una herramienta preventiva y correctiva que facilita la identificación y retiro inmediato de lotes que puedan representar riesgos sanitarios o de calidad, protegiendo tanto la salud del consumidor como la reputación del productor y la competitividad del sector.
     

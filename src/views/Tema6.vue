@@ -11,7 +11,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-12.mb-2
         div.tarjeta-horz.mb-3.curvas
-          img(src='@/assets/curso/temas/tema6/img01.png', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema6/img01.png', alt='Imagen Decorativa')
           div.texto-tarjeta.bg-blue-gradient
             .px-4
               p.mb-0 El plan de limpieza y desinfección constituye un pilar esencial de las buenas prácticas agrícolas (BPA), ya que establece procedimientos estandarizados para garantizar que las instalaciones, equipos, utensilios, áreas de manejo y transporte del plátano se mantengan en condiciones higiénicas óptimas. Su aplicación previene la proliferación de microorganismos, la contaminación cruzada y la presencia de residuos que puedan comprometer la inocuidad y calidad del fruto. Además, contribuye a la seguridad de los trabajadores y a la sostenibilidad del sistema productivo, al integrar acciones programadas de higiene con el uso responsable de insumos químicos autorizados.

@@ -11,7 +11,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-12.mb-2
         div.tarjeta-horz.mb-3.curvas
-          img(src='@/assets/curso/temas/tema6/img01.png', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema6/img01.png', alt='Imagen Decorativa')
           div.texto-tarjeta.bg-blue-gradient
             .px-4
               p.mb-0 El bienestar laboral y la seguridad de los trabajadores en el cultivo del plátano son pilares fundamentales dentro de las buenas prácticas agrícolas (BPA), ya que garantizan no solo la protección de la salud física y mental de quienes participan en la producción, sino también la sostenibilidad y competitividad del sistema agrícola. En este sector, donde las labores requieren esfuerzo físico y la manipulación de herramientas, agroquímicos y cargas pesadas, es esencial establecer condiciones de trabajo dignas, seguras y en cumplimiento de la normatividad nacional e internacional
@@ -29,7 +29,7 @@
             li Jornadas laborales reguladas, evitando sobreexplotación y fatiga excesiva.
         .col-lg-3
           figure
-            img(src='@/assets/curso/temas/tema8/img02.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema8/img02.png', alt='Imagen Decorativa')
       
       .row(titulo="Seguridad en el trabajo").justify-content-center.align-items-center
         .col-lg-8.mb-4.mb-lg-0
@@ -39,7 +39,7 @@
             li Protocolos de bioseguridad para la manipulación de agroquímicos (uso de guantes, gafas, mascarillas y ropa adecuada)
         .col-lg-3
           figure
-            img(src='@/assets/curso/temas/tema8/img03.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema8/img03.png', alt='Imagen Decorativa')
       
       .row(titulo="Equipos de protección personal (EPP)").justify-content-center.align-items-center
         .col-lg-8.mb-4.mb-lg-0
@@ -48,7 +48,7 @@
             li Supervisión del uso correcto de los EPP para prevenir accidentes y enfermedades laborales.
         .col-lg-3
           figure
-            img(src='@/assets/curso/temas/tema8/img04.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema8/img04.png', alt='Imagen Decorativa')
       
       .row(titulo="Prevención de riesgos laborales").justify-content-center.align-items-center
         .col-lg-8.mb-4.mb-lg-0
@@ -57,7 +57,7 @@
             li Implementación de medidas de control: señalización, rutas de evacuación, botiquines y brigadas de emergencia.
         .col-lg-3
           figure
-            img(src='@/assets/curso/temas/tema8/img05.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema8/img05.png', alt='Imagen Decorativa')
       
       .row(titulo="Promoción del bienestar integral").justify-content-center.align-items-center
         .col-lg-8.mb-4.mb-lg-0
@@ -67,7 +67,7 @@
             li Iniciativas de bienestar social: capacitación, recreación, formación técnica y fortalecimiento del sentido de pertenencia.
         .col-lg-3
           figure
-            img(src='@/assets/curso/temas/tema8/img06.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema8/img06.png', alt='Imagen Decorativa')
       
       .row(titulo="Participación y cultura organizacional").justify-content-center.align-items-center
         .col-lg-8.mb-4.mb-lg-0
@@ -77,7 +77,7 @@
             li Fomento de una cultura de autocuidado y corresponsabilidad en la prevención de riesgos.
         .col-lg-3
           figure
-            img(src='@/assets/curso/temas/tema8/img07.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema8/img07.png', alt='Imagen Decorativa')
       
       .row(titulo="Normas y certificaciones relacionadas").justify-content-center.align-items-center
         .col-lg-8.mb-4.mb-lg-0
@@ -87,7 +87,7 @@
             li Relación con certificaciones internacionales de sostenibilidad y BPA como GlobalG.A.P, que incluyen requisitos de bienestar laboral.
         .col-lg-3
           figure
-            img(src='@/assets/curso/temas/tema8/img08.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema8/img08.png', alt='Imagen Decorativa')
 
 
 

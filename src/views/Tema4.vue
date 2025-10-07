@@ -11,7 +11,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-12.mb-2
         div.tarjeta-horz.mb-3.curvas
-          img(src='@/assets/curso/temas/tema4/img01.png', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema4/img01.png', alt='Imagen Decorativa')
           div.texto-tarjeta.bg-blue-gradient
             .px-4
               p.mb-0 La cosecha del plátano es una de las etapas más críticas del ciclo productivo, pues de ella depende la calidad final del fruto que llegará al consumidor y, por tanto, la competitividad del cultivo en el mercado. En esta fase se definen parámetros relacionados con el estado de madurez fisiológica, el manejo del racimo y las condiciones en que es recolectado. Una cosecha adecuada garantiza la prolongación de la vida útil del plátano, minimiza pérdidas poscosecha y asegura que el producto cumpla con los estándares de calidad.
@@ -49,28 +49,28 @@
                 td 
                   b Imagen
                 td 
-                  img(src='@/assets/curso/temas/tema4/img02.png', alt='Imagen decorativa').w-auto.mx-auto
+                  img(src='@/assets/curso/temas/tema4/img02.png', alt='Imagen Decorativa').w-auto.mx-auto
                 td 
-                  img(src='@/assets/curso/temas/tema4/img03.png', alt='Imagen decorativa').w-auto.mx-auto
+                  img(src='@/assets/curso/temas/tema4/img03.png', alt='Imagen Decorativa').w-auto.mx-auto
                 td 
-                  img(src='@/assets/curso/temas/tema4/img04.png', alt='Imagen decorativa').w-auto.mx-auto
+                  img(src='@/assets/curso/temas/tema4/img04.png', alt='Imagen Decorativa').w-auto.mx-auto
                 td 
-                  img(src='@/assets/curso/temas/tema4/img05.png', alt='Imagen decorativa').w-auto.mx-auto
+                  img(src='@/assets/curso/temas/tema4/img05.png', alt='Imagen Decorativa').w-auto.mx-auto
                 td 
-                  img(src='@/assets/curso/temas/tema4/img06.png', alt='Imagen decorativa').w-auto.mx-auto
+                  img(src='@/assets/curso/temas/tema4/img06.png', alt='Imagen Decorativa').w-auto.mx-auto
               tr
                 td 
                   b Color de referencia
                 td 
-                  img(src='@/assets/curso/temas/tema4/img07.png', alt='Imagen decorativa').w-auto.mx-auto
+                  img(src='@/assets/curso/temas/tema4/img07.png', alt='Imagen Decorativa').w-auto.mx-auto
                 td 
-                  img(src='@/assets/curso/temas/tema4/img08.png', alt='Imagen decorativa').w-auto.mx-auto
+                  img(src='@/assets/curso/temas/tema4/img08.png', alt='Imagen Decorativa').w-auto.mx-auto
                 td 
-                  img(src='@/assets/curso/temas/tema4/img09.png', alt='Imagen decorativa').w-auto.mx-auto
+                  img(src='@/assets/curso/temas/tema4/img09.png', alt='Imagen Decorativa').w-auto.mx-auto
                 td 
-                  img(src='@/assets/curso/temas/tema4/img10.png', alt='Imagen decorativa').w-auto.mx-auto
+                  img(src='@/assets/curso/temas/tema4/img10.png', alt='Imagen Decorativa').w-auto.mx-auto
                 td 
-                  img(src='@/assets/curso/temas/tema4/img11.png', alt='Imagen decorativa').w-auto.mx-auto
+                  img(src='@/assets/curso/temas/tema4/img11.png', alt='Imagen Decorativa').w-auto.mx-auto
 
     //- Imagen Col-4 y Slider Col-8
     .row.justify-content-center.align-items-center.mb-5
@@ -141,7 +141,7 @@
       .row.align-items-center.justify-content-star.mb-1.ps-2
         .div.mb-3(data-aos="fade-left")
           h3.subtitle.position-relative Defectos más comunes del plátano 
-            img.image(src='@/assets/curso/temas/img01.svg', alt='Imagen decorativa')
+            img.image(src='@/assets/curso/temas/img01.svg', alt='Imagen Decorativa')
 
 
     p.mb-5 Es importante identificar y minimizar los defectos que pueden afectar la presentación y aceptación del producto en el mercado de exportación. A continuación, se enlistan los defectos más frecuentes que pueden presentarse en los plátanos:
@@ -155,7 +155,7 @@
                 .tarjeta.bg-cards-leaves.p-4
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-8
-                      img(src='@/assets/curso/temas/tema4/img19.svg' alt='AvatarTop').w-auto.mx-auto
+                      img(src='@/assets/curso/temas/tema4/img19.svg' alt='Imagen Decorativa').w-auto.mx-auto
                   h5.text-center Operacionales.
                   ul.bullets
                     li Daño por insectos.
@@ -168,7 +168,7 @@
                 .tarjeta.bg-cards-leaves.p-4
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-8
-                      img(src='@/assets/curso/temas/tema4/img20.svg' alt='AvatarTop').w-auto.mx-auto
+                      img(src='@/assets/curso/temas/tema4/img20.svg' alt='Imagen Decorativa').w-auto.mx-auto
                   h5.text-center No operacionales.
                   ul.bullets
                     li Cicatriz de manejo.
@@ -179,7 +179,7 @@
                 .tarjeta.bg-cards-leaves.p-4
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-8
-                      img(src='@/assets/curso/temas/tema4/img21.svg' alt='AvatarTop').w-auto.mx-auto
+                      img(src='@/assets/curso/temas/tema4/img21.svg' alt='Imagen Decorativa').w-auto.mx-auto
                   h5.text-center Extraordinarios.
                   ul.bullets
                     li Cuello roto.
@@ -190,7 +190,7 @@
                 .tarjeta.bg-cards-leaves.p-4
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-8
-                      img(src='@/assets/curso/temas/tema4/img22.svg' alt='AvatarTop').w-auto.mx-auto
+                      img(src='@/assets/curso/temas/tema4/img22.svg' alt='Imagen Decorativa').w-auto.mx-auto
                   h5.text-center Recurrentes.
                   ul.bullets
                     li  Vitola baja.
@@ -200,7 +200,7 @@
                     li  Fruta madura.
           .col-12.col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
             figure
-              img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema4/img38.png', alt='imagen decorativa')
+              img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema4/img38.png', alt='Imagen Decorativa')
 
     separador 
 
@@ -212,7 +212,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-12.col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
         figure
-          img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema4/img23.png', alt='imagen decorativa')
+          img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema4/img23.png', alt='Imagen Decorativa')
       .col-12.col-lg-8.mb-4.mb-lg-0
         p Prácticas posteriores a la recolección del racimo, que buscan conservar la calidad del fruto hasta su llegada al consumidor final. Incluye procesos de manipulación, clasificación, lavado, desinfección y empaque, los cuales reducen pérdidas, mejoran la presentación y garantizan inocuidad.
         p Cuando los frutos alcanzan su punto de madurez, inicia la etapa de cosecha, en la cual los racimos son recolectados con cuidado para evitar daños mecánicos. Posteriormente, el proceso de poscosecha se encarga de preservar la calidad del producto mediante actividades como limpieza, clasificación y embalaje, asegurando su adecuada presentación y conservación para la distribución.
@@ -226,7 +226,7 @@
         h3.mb-2.color-primario Diagrama de operaciones para poscosecha de plátano. 
         p.mb-0.text-white En el recurso relacionado a continuación se muestra a través de un diagrama, el proceso de operaciones para la poscosecha de plátano:
       .col-sm-12.col-lg-2.col-xl-2
-        a.boton.color-acento-botones(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
+        a.boton.color-acento-botones(:href="obtenerLink('/downloads/DI_DIAGRAMA_OPERACIONES__CF02_7331548.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
 
@@ -240,7 +240,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-12.col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
         figure
-          img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema4/img25.png', alt='imagen decorativa')
+          img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema4/img25.png', alt='Imagen Decorativa')
       .col-12.col-lg-8.mb-4.mb-lg-0
         p Son fases determinantes para conservar la calidad del fruto desde la finca hasta el consumidor final. En el empacado, los plátanos previamente seleccionados y clasificados son organizados en cajas de cartón corrugado, guacales plásticos o de madera, con separadores y protectores que evitan golpes y fricción entre los frutos. Este proceso se realiza bajo condiciones higiénicas, garantizando trazabilidad mediante etiquetas que incluyen información del productor, lote y fecha de corte, lo cual es clave para mercados internacionales. El transporte, por su parte, debe efectuarse en vehículos limpios y desinfectados, con una adecuada ventilación y, en el caso de exportaciones, bajo condiciones controladas de temperatura entre 14 y 16 °C. Durante el traslado se debe evitar la sobrecarga y la manipulación brusca que pueda generar magulladuras, rajaduras o deterioro en la piel del fruto, lo cual afectaría su vida útil y calidad comercial. Un adecuado empacado y transporte no solo reduce pérdidas poscosecha, sino que también fortalece la inocuidad, la competitividad y la aceptación del plátano en los mercados nacionales e internacionales.
       
@@ -250,7 +250,7 @@
       .row.align-items-center.justify-content-star.mb-1.ps-2
         .div.mb-3(data-aos="fade-left")
           h3.subtitle.position-relative Esquema de empacado y transporte del plátano
-            img.image(src='@/assets/curso/temas/img01.svg', alt='Imagen decorativa')
+            img.image(src='@/assets/curso/temas/img01.svg', alt='Imagen Decorativa')
 
     p.mb-4 Es importante identificar y minimizar los defectos que pueden afectar la presentación y aceptación del producto en el mercado de exportación. A continuación, se enlistan los defectos más frecuentes que pueden presentarse en los plátanos:
 
@@ -264,7 +264,7 @@
             p Frutos sanos, de tamaño y forma uniforme, donde se eliminan los plátanos con defectos o daños.
           .col-12.col-lg-4
             figure
-              img(src='@/assets/curso/temas/tema4/img32.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema4/img32.png', alt='Imagen Decorativa')
 
       .py-4.py-md-5(titulo="Preparación para el empaque" :icono="require('@/assets/curso/temas/tema4/img27.svg')")
         .row.justify-content-center.align-items-center
@@ -273,7 +273,7 @@
             p Se hace un lavado y desinfección de los frutos. Posterior a esto se escurren y se secan para evitar humedad excesiva.
           .col-12.col-lg-4
             figure
-              img(src='@/assets/curso/temas/tema4/img33.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema4/img33.png', alt='Imagen Decorativa')
 
       .py-4.py-md-5(titulo="Empacado" :icono="require('@/assets/curso/temas/tema4/img28.svg')")
         .row.justify-content-center.align-items-center
@@ -282,7 +282,7 @@
             p Para esto se usan cajas de cartón corrugado, guacales plásticos o de madera. Además de Separadores o protectores internos (papel, plásticos perforados, espuma). Finalmente, el etiquetado con información de trazabilidad (lote, productor, fecha).
           .col-12.col-lg-4
             figure
-              img(src='@/assets/curso/temas/tema4/img34.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema4/img34.png', alt='Imagen Decorativa')
 
       .py-4.py-md-5(titulo="Almacenamiento Temporal" :icono="require('@/assets/curso/temas/tema4/img29.svg')")
         .row.justify-content-center.align-items-center
@@ -291,7 +291,7 @@
             p El área debe estar limpia, fresca y ventilada; así mismo evitar exposición directa al sol o a la lluvia.
           .col-12.col-lg-4
             figure
-              img(src='@/assets/curso/temas/tema4/img35.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema4/img35.png', alt='Imagen Decorativa')
 
       .py-4.py-md-5(titulo="Transporte" :icono="require('@/assets/curso/temas/tema4/img30.svg')")
         .row.justify-content-center.align-items-center
@@ -302,7 +302,7 @@
 
           .col-12.col-lg-4
             figure
-              img(src='@/assets/curso/temas/tema4/img36.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema4/img36.png', alt='Imagen Decorativa')
 
       .py-4.py-md-5(titulo="Llegada al destino" :icono="require('@/assets/curso/temas/tema4/img31.svg')")
         .row.justify-content-center.align-items-center
@@ -311,7 +311,7 @@
             p El descargue debe ser cuidadoso. Luego se hace la verificación de la calidad del lote para poder finalizar con la distribución al mercado local o internacional.
           .col-12.col-lg-4
             figure
-              img(src='@/assets/curso/temas/tema4/img37.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema4/img37.png', alt='Imagen Decorativa')
 
 
 

@@ -12,7 +12,7 @@
       .row.align-items-center(data-aos="fade-left")
         .col-12.col-md-12.col-lg-4.mb-4.mb-lg-0
           figure
-            img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema1/img01.png', alt='imagen decorativa')
+            img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema1/img01.png', alt='Imagen Decorativa')
         .col-12.col-md-12.col-lg-8.mb-4.mb-lg-0
           p.mb-0 El manejo fitosanitario en el cultivo del plátano son las prácticas preventivas, de monitoreo y de control que buscan proteger las plantas contra plagas, enfermedades y desórdenes fisiológicos que afectan la productividad y la calidad del fruto. Aplicado bajo el enfoque de las buenas prácticas agrícolas (BPA), prioriza métodos integrados y sostenibles que reduzcan el uso indiscriminado de agroquímicos, protejan el ambiente y aseguren la inocuidad del alimento.
     
@@ -21,7 +21,7 @@
       .row.align-items-center.justify-content-star.mb-1.ps-2
         .div.mb-3(data-aos="fade-left")
           h3.subtitle.position-relative Aspectos claves en el manejo fitosanitario
-            img.image(src='@/assets/curso/temas/img01.svg', alt='Imagen decorativa')
+            img.image(src='@/assets/curso/temas/img01.svg', alt='Imagen Decorativa')
 
     //- Tarjeta slider
     .tarjeta.p-4.bg-color-secundario-a10

@@ -16,7 +16,7 @@
           ImagenInfograficaB.color-secundario
             template(v-slot:imagen)
               figure
-                img(src='@/assets/curso/temas/tema2/img01.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema2/img01.png', alt='Imagen Decorativa')
             
             div(x="20%" y="105%" numero="1" tooltip="Control de maleza")
               .row.justify-content-center.m-0
@@ -26,7 +26,7 @@
                     span 1
                   .row.p-3.p-lg-0.align-items-center.modal-content-card
                     .col-lg-3.p-0.d-none.d-lg-block           
-                      img(src='@/assets/curso/temas/tema2/img02.png', alt='Imagen decorativa')
+                      img(src='@/assets/curso/temas/tema2/img02.png', alt='Imagen Decorativa')
                     .col-lg-8
                       .px-lg-4
                         h5 Control de maleza
@@ -41,7 +41,7 @@
                     span 2
                   .row.p-3.p-lg-0.align-items-center.modal-content-card
                     .col-lg-3.p-0.d-none.d-lg-block           
-                      img(src='@/assets/curso/temas/tema2/img03.png', alt='Imagen decorativa')
+                      img(src='@/assets/curso/temas/tema2/img03.png', alt='Imagen Decorativa')
                     .col-lg-8
                       .px-lg-4
                         h5 Plateo
@@ -55,7 +55,7 @@
                     span 3
                   .row.p-3.p-lg-0.align-items-center.modal-content-card
                     .col-lg-3.p-0.d-none.d-lg-block           
-                      img(src='@/assets/curso/temas/tema2/img03.png', alt='Imagen decorativa')
+                      img(src='@/assets/curso/temas/tema2/img03.png', alt='Imagen Decorativa')
                     .col-lg-8
                       .px-lg-4
                         h5 Desmache
@@ -69,7 +69,7 @@
                     span 4
                   .row.p-3.p-lg-0.align-items-center.modal-content-card
                     .col-lg-3.p-0.d-none.d-lg-block           
-                      img(src='@/assets/curso/temas/tema2/img03.png', alt='Imagen decorativa')
+                      img(src='@/assets/curso/temas/tema2/img03.png', alt='Imagen Decorativa')
                     .col-lg-8
                       .px-lg-4
                         h5 Desguasque
@@ -83,7 +83,7 @@
                     span 5
                   .row.p-3.p-lg-0.align-items-center.modal-content-card
                     .col-lg-3.p-0.d-none.d-lg-block           
-                      img(src='@/assets/curso/temas/tema2/img03.png', alt='Imagen decorativa')
+                      img(src='@/assets/curso/temas/tema2/img03.png', alt='Imagen Decorativa')
                     .col-lg-8
                       .px-lg-4
                         h5 Deshije
@@ -98,7 +98,7 @@
                     span 6
                   .row.p-3.p-lg-0.align-items-center.modal-content-card
                     .col-lg-3.p-0.d-none.d-lg-block           
-                      img(src='@/assets/curso/temas/tema2/img03.png', alt='Imagen decorativa')
+                      img(src='@/assets/curso/temas/tema2/img03.png', alt='Imagen Decorativa')
                     .col-lg-8
                       .px-lg-4
                         h5 Amarre
@@ -112,7 +112,7 @@
                     span 7
                   .row.p-3.p-lg-0.align-items-center.modal-content-card
                     .col-lg-3.p-0.d-none.d-lg-block           
-                      img(src='@/assets/curso/temas/tema2/img03.png', alt='Imagen decorativa')
+                      img(src='@/assets/curso/temas/tema2/img03.png', alt='Imagen Decorativa')
                     .col-lg-8
                       .px-lg-4
                         h5 Embolse

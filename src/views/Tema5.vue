@@ -20,7 +20,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-12.col-lg-3.mb-4.mb-lg-0.d-xl-block.d-none(data-aos="fade-left")
         figure
-          img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema5/img02.png', alt='imagen decorativa')
+          img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema5/img02.png', alt='Imagen Decorativa')
       .col-12.col-xl-9.mb-4.mb-lg-0
         TabsA.color-acento-contenido
           .tarjeta.p-5(titulo="Limpieza y desinfección de áreas")
