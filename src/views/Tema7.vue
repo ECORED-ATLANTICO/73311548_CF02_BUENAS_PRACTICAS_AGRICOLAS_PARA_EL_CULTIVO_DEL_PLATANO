@@ -101,45 +101,45 @@
     TabsC.color-acento-contenido.mb-5
       .p-4.py-5.bg-color-primario-p5(titulo="Identificación en campo")
         .row.align-items-center.justify-content-center
-          .col-md-8.col-lg-7.mb-4.mb-md-0
+          .col-md-12.col-lg-7.mb-4.mb-md-0
             h5.mb-4 Identificación en campo
             ul.bullets
               li Cada lote o parcela se identifica con códigos únicos (número de lote, fecha de siembra, variedad de plátano). 
               li Se registran datos de labores culturales, aplicación de agroquímicos, fertilización y riego.
-          .col-md-4
+          .col-12.col-md-8.col-lg-4
             figure
               img.my-3(src='@/assets/curso/temas/tema7/img04.png', alt='Imagen decorativa')
 
       .p-4.py-5.bg-color-primario-p5(titulo="Registro en cosecha y poscosecha")
         .row.align-items-center.justify-content-center
-          .col-md-8.col-lg-7.mb-4.mb-md-0
+          .col-md-12.col-lg-7.mb-4.mb-md-0
             h5.mb-4 Registro en cosecha y poscosecha
             ul.bullets
               li Los racimos cosechados se etiquetan o marcan con información del lote de origen. 
               li En la planta de empaque se registran fecha de cosecha, clasificación, y resultados de control de calidad.
-          .col-md-4
+          .col-12.col-md-8.col-lg-4
             figure
               img.my-3(src='@/assets/curso/temas/tema7/img05.png', alt='Imagen decorativa')
 
       .p-4.py-5.bg-color-primario-p5(titulo="Empaque y transporte")
         .row.align-items-center.justify-content-center
-          .col-md-8.col-lg-7.mb-4.mb-md-0
+          .col-md-12.col-lg-7.mb-4.mb-md-0
             h5.mb-4 Empaque y transporte
             ul.bullets
               li Cada caja o guacal lleva un código de identificación que permite saber de qué lote proviene. 
               li Se documenta la ruta de distribución y destino del producto.
-          .col-md-4
+          .col-12.col-md-8.col-lg-4
             figure
               img.my-3(src='@/assets/curso/temas/tema7/img06.png', alt='Imagen decorativa')
 
       .p-4.py-5.bg-color-primario-p5(titulo="Seguimiento en comercialización")
         .row.align-items-center.justify-content-center
-          .col-md-8.col-lg-7.mb-4.mb-md-0
+          .col-md-12.col-lg-7.mb-4.mb-md-0
             h5.mb-4 Seguimiento en comercialización
             ul.bullets
               li Los clientes o distribuidores reciben el plátano con información trazable. 
               li Ante cualquier reclamo, es posible rastrear el lote hasta su origen en finca.
-          .col-md-4
+          .col-12.col-md-8.col-lg-4
             figure
               img.my-3(src='@/assets/curso/temas/tema7/img07.png', alt='Imagen decorativa')
 

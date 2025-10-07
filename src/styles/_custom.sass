@@ -160,7 +160,8 @@ h3.color-primario
     opacity: .5
 
 .img-infografica-b__item
-  width: 5%
+  width: 8%
+  font-size: 1.5rem
 
 // Titulos
 .subtitle
@@ -187,6 +188,9 @@ h3.color-primario
     background-color: #7A8045
     border-color: #7A8045
     opacity: 0.4
+    @media (max-width: 768px)
+      margin: 0 4px
+
     &.slyder-a__bullets__item--active
       opacity: 1
 
@@ -329,3 +333,9 @@ h3.color-primario
   margin-bottom: 0
 .tabs-c__content-item
   background: #FAFBF1
+
+//- Pasos
+.pasos-a.color-secundario .pasos-a__circle
+  background-color: #CFEAEA
+.pasos-a.color-secundario .pasos-a__circle div
+  color: #12263F

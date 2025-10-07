@@ -22,7 +22,7 @@
       .container(data-aos="fade-right")
         .row.align-items-center
           .col-12.col-md-12.col-lg-10.mx-auto
-            PasosA.color-primario.mb-5(tipo="n")
+            PasosA.color-secundario.mb-5(tipo="n")
               .row.align-items-center.justify-content-center
                 .col-md-8.mb-4.mb-md-0.order-2.order-lg-1
                   h5 Concepto de inocuidad

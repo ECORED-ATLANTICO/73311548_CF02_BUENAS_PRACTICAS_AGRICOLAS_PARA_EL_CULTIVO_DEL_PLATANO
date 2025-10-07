@@ -18,7 +18,7 @@
               figure
                 img(src='@/assets/curso/temas/tema2/img01.png', alt='Texto que describa la imagen')
             
-            div(x="32%" y="105%" numero="1" tooltip="Control de maleza")
+            div(x="20%" y="105%" numero="1" tooltip="Control de maleza")
               .row.justify-content-center.m-0
                 .col-lg-12.position-relative
                   img.hojas-platano-icono(src='@/assets/curso/temas/img02.svg', alt='hojas')
@@ -33,7 +33,7 @@
                         p Consiste en eliminar o reducir la vegetación no deseada que compite con el plátano por agua, nutrientes y luz. Puede realizarse de manera manual, mecánica o con métodos químicos controlados, priorizando siempre alternativas sostenibles para proteger el suelo y la biodiversidad.
 
 
-            div(x="38%" y="105%" numero="2" tooltip="Plateo")
+            div(x="30%" y="105%" numero="2" tooltip="Plateo")
               .row.justify-content-center.m-0
                 .col-lg-12.position-relative
                   img.hojas-platano-icono(src='@/assets/curso/temas/img02.svg', alt='hojas')
@@ -47,7 +47,7 @@
                         h5 Plateo
                         p Es la limpieza del área circular alrededor del pseudotallo de la planta, con un diámetro aproximado de 1 a 1,5 metros. Favorece la aireación de la raíz, mejora la absorción de nutrientes y facilita la aplicación de fertilizantes y riego.
             
-            div(x="44%" y="105%" numero="3" tooltip="Desmache")
+            div(x="40%" y="105%" numero="3" tooltip="Desmache")
               .row.justify-content-center.m-0
                 .col-lg-12.position-relative
                   img.hojas-platano-icono(src='@/assets/curso/temas/img02.svg', alt='hojas')
@@ -75,7 +75,7 @@
                         h5 Desguasque
                         p Es el corte de hojas que, aunque estén verdes, impiden el adecuado desarrollo del racimo o restan energía a la producción. También se utiliza para permitir mayor entrada de luz y ventilación en la planta.
            
-            div(x="56%" y="105%" numero="5" tooltip="Deshije")
+            div(x="60%" y="105%" numero="5" tooltip="Deshije")
               .row.justify-content-center.m-0
                 .col-lg-12.position-relative
                   img.hojas-platano-icono(src='@/assets/curso/temas/img02.svg', alt='hojas')
@@ -90,7 +90,7 @@
                         p Implica la eliminación de brotes secundarios (hijuelos) que nacen alrededor de la planta madre. Se dejan únicamente los necesarios para la renovación del cultivo (generalmente 1 o 2), evitando la competencia y garantizando la continuidad productiva.
            
 
-            div(x="62%" y="105%" numero="6" tooltip="Amarre")
+            div(x="70%" y="105%" numero="6" tooltip="Amarre")
               .row.justify-content-center.m-0
                 .col-lg-12.position-relative
                   img.hojas-platano-icono(src='@/assets/curso/temas/img02.svg', alt='hojas')
@@ -104,7 +104,7 @@
                         h5 Amarre
                         p Consiste en colocar soportes (generalmente cuerdas, estacas o varas) a la planta para evitar que se quiebre por el peso del racimo o por la acción del viento. Aporta estabilidad y asegura la producción.
 
-            div(x="68%" y="105%" numero="7" tooltip="Embolse")
+            div(x="80%" y="105%" numero="7" tooltip="Embolse")
               .row.justify-content-center.m-0
                 .col-lg-12.position-relative
                   img.hojas-platano-icono(src='@/assets/curso/temas/img02.svg', alt='hojas')

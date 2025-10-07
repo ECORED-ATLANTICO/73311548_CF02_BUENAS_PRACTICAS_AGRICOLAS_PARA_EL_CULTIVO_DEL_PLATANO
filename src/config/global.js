@@ -39,13 +39,6 @@ export default {
         numero: '1',
         titulo: 'Manejo del cultivo',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '1.1',
-            titulo: 'Subtema 1',
-            hash: 't_1_1',
-          },
-        ],
       },
 
       {
@@ -65,6 +58,18 @@ export default {
         numero: '4',
         titulo: 'Ventajas y desventajas de la implementación de las BPA',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Poscosecha',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Empacado y transporte del plátano',
+            hash: 't_4_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema5',
