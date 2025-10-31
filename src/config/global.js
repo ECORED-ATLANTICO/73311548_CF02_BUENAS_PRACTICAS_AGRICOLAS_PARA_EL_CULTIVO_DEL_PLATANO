@@ -86,7 +86,7 @@ export default {
       {
         nombreRuta: 'tema7',
         numero: '7',
-        titulo: '7.	Identificación, trazabilidad y procedimiento de retiro',
+        titulo: 'Identificación, trazabilidad y procedimiento de retiro',
         desarrolloContenidos: true,
       },
       {
