@@ -95,12 +95,6 @@ export default {
         titulo: 'Bienestar laboral y seguridad de los trabajadores',
         desarrolloContenidos: true,
       },
-      {
-        nombreRuta: 'tema9',
-        numero: '9',
-        titulo: 'Inocuidad en el plátano y protección sanitaria',
-        desarrolloContenidos: true,
-      },
     ],
     subMenu: [
       {
