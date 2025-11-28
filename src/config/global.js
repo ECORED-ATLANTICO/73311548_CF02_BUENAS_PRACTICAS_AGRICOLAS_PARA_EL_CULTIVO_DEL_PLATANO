@@ -152,7 +152,7 @@ export default {
     {
       tema: 'Buenas Prácticas Poscosecha de Plátano (Musa paradisiaca L.)',
       referencia: 'Universidad de Ibagué; Gobernación del Tolima.',
-      tipo: 'Sitio web',
+      tipo: 'Documento',
       link:
         'https://www.researchgate.net/publication/340996637_Buenas_Practicas_Poscosecha_de_Platano_Musa_paradisiaca_L ',
     },
@@ -287,7 +287,7 @@ export default {
         },
         {
           nombre: 'Álvaro Guillermo Araújo Angarita',
-          cargo: 'Desarrollador <i>full stack junior</i>',
+          cargo: 'Desarrollador <i>full stack</i>',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
